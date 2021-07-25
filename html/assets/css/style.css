@@ -108,6 +108,22 @@ footer a{
     display: inline-block;
 }
 
+#prueba form {
+    border: 5px solid blue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+#prueba form *{
+    vertical-align: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+  
+
+}
+
 input [tipe="text"], select {
     margin-bottom: 15px;
     padding: 10px;
