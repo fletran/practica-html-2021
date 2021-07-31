@@ -109,6 +109,7 @@ footer a{
 }
 
 #prueba form {
+    font-size: 20px;
     border: 5px solid blue;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -116,6 +117,7 @@ footer a{
 }
 
 #prueba form *{
+    
     vertical-align: auto;
     margin-top: 15px;
     margin-bottom: 15px;
